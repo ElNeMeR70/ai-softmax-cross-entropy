@@ -1,0 +1,4 @@
+[project]
+name = "ai-softmax-cross-entropy"
+version = "0.1.0"
+description = "Subtracts logit max to avoid exponential overflow when computing probability distributions and cross-entropy."
